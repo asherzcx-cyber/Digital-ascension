@@ -1,5 +1,0 @@
-Final Draft.pdf -> A Blueprint towards Digital Ascension
-git rm "A Blueprint towards Digital Ascension.pdf"
-git rm "Final Draft.pdf"
-git commit -m "Remove PDF files, keep LICENSE"
-git push origin main
